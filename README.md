@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The dom is an object version of the html of a webpage.
+
 2. What is an event?
+
+An event is something that happens in the DOM.
 
 3. What is an event listener?
 
+An event listener is a method that activates when a user triggers a specific event on a specific elemnt. 
+
 4. Why would we convert a NodeList into an Array?
 
+An array has morembuilt in methods than a node list.
+
 5. What is a component?
+
+A component is like a class that uses js, css and html and it can be reused throught the page.
 
 ### Git Set up
 
